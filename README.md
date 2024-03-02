@@ -88,12 +88,10 @@ Read more about object detection model used, working of the algorithm, and devel
 ------------------------------------------
 ### Contributors
 
-Rajat Kabra - [kabrarajat92](https://github.com/kabrarajat92/)
+
 
 ------------------------------------------
-### Acknowledgement
-
-I would like to extend our sincere thanks to our mentor Mr. Hariran Sir for her kind help and valuable advice. His support and constant supervision were imperative for the successful completion of this project. I would also like to express our special gratitude and thanks to Mr. Virendra Sing Khushwah, the subject-matter expert for this project, for his valuable inputs and guidance.   
+  
 
 ------------------------------------------
 ### License
